@@ -1,3 +1,10 @@
+/*
+6. Write a program that uses Java Swing and JDBC to create a stand-alone application:
+Create two tables namely, Representative (RepNo, RepName, State, Commission, Rate) and Customer (CustNo, CustName, State, Credit_Limit, RepNo) in MySQL database.
+Use appropriate Swing components to insert values in a form. 
+Use another form to display Representative’s information whose Credit_Limit is above 15,000.
+*/
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.sql.Connection;
